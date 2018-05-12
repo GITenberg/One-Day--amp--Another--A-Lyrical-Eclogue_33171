@@ -1,0 +1,29 @@
+_repo: One-Day--amp--Another--A-Lyrical-Eclogue_33171
+_version: 0.1.0
+alternative_title: 'One Day and Another: A Lyrical Eclogue'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cawein, Madison Julius
+    alias: Cawein, Madison J.
+    birthdate: 1865
+    deathdate: 1914
+    gutenberg_agent_id: '2531'
+    url: http://www.gutenberg.org/2009/agents/2531
+    wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: 'One Day & Another: A Lyrical Eclogue'
+url: http://www.gutenberg.org/ebooks/33171
